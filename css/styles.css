@@ -1,0 +1,113 @@
+/**************************TAG SELECTORS********************************/
+body {
+  margin: 0;
+  text-align: center;
+  color:#40514E;
+}
+
+h1 {
+  margin:50px auto 0 auto;
+  font-family: 'Marck Script', cursive;
+  font-size:5.625rem;
+  color:#FF0075;
+  line-height:2;
+}
+p{
+  font-family: 'Comic Neue', cursive;
+}
+h2{
+  font-family: 'Mate SC', serif;
+  font-size:2.5rem;
+  color:#FF0075;
+}
+h3{
+  color:#FEC260;
+}
+hr{
+  width:5%;
+  height:0;
+  border-style:none;
+  border-top-style:dotted;
+  border-color:grey;
+  border-width:5px;
+  margin:100px auto;
+}
+a{
+  font-family: 'Mate SC', serif;
+  margin:10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+/*************************CLASS SELECTORS******************************/
+.top-container {
+  background-color: #30E3CA;
+  position: relative;
+  padding-top: 100px;
+}
+.My-img{
+  height:200px;
+  width:200px;
+  margin:0 auto;
+}
+.Uni {
+  text-decoration:underline;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bot-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.middle-container{
+  margin:100px 0;
+}
+.sing{
+  width:25%;
+  float:left;
+  margin-right:30px;
+}
+.code{
+  width:25%;
+  float: right;
+  margin-left:30px;
+}
+.desc{
+  font-size:2.5rem;
+  font-weight:normal;
+  color:#FF0075;
+}
+.footer-link{
+  color:#FEC260;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto;
+  text-align:left;
+  line-height:2;
+}
+.profile{
+  width:50%;
+  margin:auto;
+  line-height:2;
+}
+.contact-me{
+  width:50%;
+  margin:auto;
+  line-height:2;
+  margin-bottom:50px;
+}
+.bottom-container{
+  background-color: #30E3CA;
+  padding:50px 0 20px;
+}
+.copyrights{
+  color:#EAF6F6;
+  font-size:0.75rem;
+  padding:20px 0;
+}
